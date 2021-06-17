@@ -10,4 +10,4 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 ##:computer: Some of my project
 ## Some of my project :computer:	
-<li>(http://www.google.fr/ "Named link title"):</li>
+<li>[Link to Google](https://www.google.com):</li>
