@@ -9,7 +9,7 @@
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="100px" width="100px"/>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 
-## Some of my project :computer:	
+## Some of my projects :computer:	
 * [Redefine](https://github.com/Andreaskalicani/Redefine): Still under construction. Creating a Website with a team of four for a client in Copenhavn that is a Service design agency start up. This is our final project throught the bootcamp.There we used React, styled-components and atomic design. 
 
 * [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): It was our first hackhathon. Where we was to create and application that will be usefull for Astronuts that are traveling to Mars.  We had 24 hours to create an application. That the team we where four people that decided to create a Scrum mars application where you could keep track of all your work, backlog and task and drag them when there are in process and when their are finished. When you have completed one of the task you will receive points. We won 2nd place.   
@@ -22,9 +22,13 @@
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
 
 * :man_factory_worker: I’m currently working on REDEFINE project:https://github.com/Andreaskalicani/Redefine
+
 * :people_holding_hands: Excited to collaborate with new project and grow.  
+
 * :smile: positive and active person that always like to learn new things. 
+
 * :envelope_with_arrow: You can reach me:[kaliqani7@gmail.com]
+
 * :handshake: Can’t wait to get in contact with you, 
 
  
