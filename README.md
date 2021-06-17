@@ -14,11 +14,17 @@
 
 * [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): It was our first hackhathon. Where we was to create and application that will be usefull for Astronuts that are traveling to Mars.  We had 24 hours to create an application. That the team we where four people that decided to create a Scrum mars application where you could keep track of all your work, backlog and task and drag them when there are in process and when their are finished. When you have completed one of the task you will receive points. We won 2nd place.   
 
-* [Travel Budget2.0](https://github.com/Andreaskalicani/travelbudget2.0): My Second project that was created by a team of four. Its an web app where you can manage an organize your budget when you travel and keep a track of all expenses through all your travel. Where you can show much budget you have, it shows you how much you can use per day from the amount of days traveling. it changes also the currency from what you have to the destination of the countries currency. In this project we used React, styled components, chart.js, bootstrap,node.js and mysql. 
+* [Travel Budget2.0](https://github.com/Andreaskalicani/travelbudget2.0): My Second project that was created by a team of four. Its an web app where you can manage an organize your budget when you travel and keep a track of all expenses through all your travels. Where you can show much budget you have, it shows you how much you can use per day from the amount of days traveling. it changes also the currency from what you have to the destination of the countries currency. In this project we used React, styled components, chart.js, bootstrap, node.js, exchange api  and mysql. 
 
 * [Project 1](https://github.com/saravalencia/Project1): This is our first project we created in the bootcamp. We where a team of three creating a travel Webiste  where you could explore little bit of Montjuic in Barcelona and get information of how to get there, few history facts, where to eat and to explore the view of montjuic.Tools we used in this project was HTML, CSS and som Javascript. 
 
 
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
+
+* :man_factory_worker: I’m currently working on REDEFINE project:https://github.com/Andreaskalicani/Redefine
+* :people_holding_hands: Excited to collaborate with new project and grow.  
+* :smile: positive and active person that always like to learn new things. 
+* :envelope_with_arrow: You can reach me:[kaliqani7@gmail.com]
+* :handshake: Can’t wait to get in contact with you, 
 
  
