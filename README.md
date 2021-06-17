@@ -27,7 +27,7 @@
 
 * :smile: positive and active person that always like to learn new things. 
 
-* :envelope_with_arrow: You can reach me:[kaliqani7@gmail.com]
+* :envelope_with_arrow: You can reach me:kaliqani7@gmail.com
 
 * :handshake: Can’t wait to get in contact with you, 
 
