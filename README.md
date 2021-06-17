@@ -10,4 +10,6 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 ##:computer: Some of my project
 ## Some of my project :computer:	
-* [Redefine](https://www.google.com):
+* [Redefine](https://www.google.com): Still under construction. Creating a Website with a team of four for a client in Copenhavn that is a Service design agency start up. This is our final project throught the bootcamp.There we used React, styled-components and atomic design. 
+* 
+ 
