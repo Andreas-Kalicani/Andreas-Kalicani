@@ -10,30 +10,28 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 
 ## Some of my projects :computer:	
-* [Redefine](https://github.com/Andreaskalicani/Redefine): Still under construction. Creating a Website with a team of four for a client in Copenhavn that is a Service design agency start up. This is our final project throught the bootcamp.There we used React, styled-components and atomic design. 
+* [Redefine](https://github.com/Andreaskalicani/Redefine): Still under construction. We are creating a Website (4 persons) for a client in Copenhaguen, a Service design agency start-up named REDEFINE. This is our final project through the bootcamp. We are using React, styled-components and Atomic design. 
 
-* [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): It was our first hackhathon. Where we was to create and application that will be usefull for Astronuts that are traveling to Mars.  We had 24 hours to create an application. That the team we where four people that decided to create a Scrum mars application where you could keep track of all your work, backlog and task and drag them when there are in process and when their are finished. When you have completed one of the task you will receive points. We won 2nd place.   
+* [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): First Hackathon - we won the 2nd place. Our mission was to create an application that could be useful for Astronauts who are traveling to Mars.  We had 24 hours to create this application. With my team we decided to create a Scrum mars application where you could keep track of all your work, backlog and tasks - drag them when there are in process or finished. When one task is completed you receive points, in order to motivate each other to give their best. 
 
-* [Travel Budget2.0](https://github.com/Andreaskalicani/travelbudget2.0): My Second project that was created by a team of four. Its an web app where you can manage an organize your budget when you travel and keep a track of all expenses through all your travels. Where you can show much budget you have, it shows you how much you can use per day from the amount of days traveling. it changes also the currency from what you have to the destination of the countries currency. In  this project we used React, styled components, chart.js, bootstrap, node.js, exchange api  and mysql. 
+* [Travel Budget2.0](https://github.com/Andreaskalicani/travelbudget2.0): On our 2nd project we worked (4 persons) on a web app to manage and organize the budget of your travel and keep tracking of all your expenses. It shows the global budget and the daily amount available regarding your expenses and needs. We implemented an exchange rate API to convert directly the currency of the countries. In  this project we used React, styled-components, Chart.js, Bootstrap, Node.js and MySQL. 
 
-* [Color](https://github.com/Andreaskalicani/color): This is one of my side project i was working on after the first project on the bootcamp. 
-  This was one of my solo project. When we was still learning HTML, CSS and Javascript. Still using the same stack. Is a suppose to be a client website for
-  different services. Where I used linear gradient color, some smooth scrool effect, responsiveness and javascript to make more interactions. 
+* [Color](https://github.com/Andreaskalicani/color): [Solo project] When we was still learning HTML, CSS and Javascript, I worked on this project to put the stacks in practice. It's suppose to be a client website which provides different services. I used linear gradient colors, some smooth scrool effects, responsiveness and used Javascript to create more interactions. 
 
 
-* [Project 1](https://github.com/saravalencia/Project1): This is our first project we created in the bootcamp. We where a team of three creating a travel Webiste  where you could explore little bit of Montjuic in Barcelona and get information of how to get there, few history facts, where to eat and to explore the view of montjuic.Tools we used in this project was HTML, CSS and som Javascript. 
+* [Project 1](https://github.com/saravalencia/Project1): This is our first project created during the bootcamp. With my team (3 perons) we developed a tourism destination Webiste where you could explore the site of Montjuic in Barcelona and get all information of how to get there, few history facts, where to eat and the best spots to explore the view of Montjuic. Tools we used in this project were HTML, CSS and Javascript. 
 
 
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
 
-* :man_factory_worker: I’m currently working on REDEFINE project:https://github.com/Andreaskalicani/Redefine
+* :man_factory_worker: I’m currently working on REDEFINE project: https://github.com/Andreaskalicani/Redefine
 
-* :people_holding_hands: Excited to collaborate with new project and grow.  
+* :people_holding_hands: Excited to collaborate with on new projects and keep growing.  
 
-* :smile: positive and active person that always like to learn new things. 
+* :smile: Positive and active person that always like to learn new things. 
 
-* :envelope_with_arrow: You can reach me:kaliqani7@gmail.com
+* :envelope_with_arrow: You can reach me: kaliqani7@gmail.com
 
-* :handshake: Can’t wait to get in contact with you, 
+* :handshake: Can’t wait to get in contact with you.
 
  
