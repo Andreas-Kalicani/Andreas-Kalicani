@@ -19,7 +19,7 @@
 * [Color](https://github.com/Andreaskalicani/color): [Solo project] When we was still learning HTML, CSS and Javascript, I worked on this project to put the stacks in practice. It's suppose to be a client website which provides different services. I used linear gradient colors, some smooth scrool effects, responsiveness and used Javascript to create more interactions. 
 
 
-* [Project 1](https://github.com/saravalencia/Project1): This is our first project created during the bootcamp. With my team (3 perons) we developed a tourism destination Webiste where you could explore the site of Montjuic in Barcelona and get all information of how to get there, few history facts, where to eat and the best spots to explore the view of Montjuic. Tools we used in this project were HTML, CSS and Javascript. 
+* [Project 1](https://github.com/saravalencia/Project1): This is our first project created during the bootcamp. With my team (3 persons) we developed a tourism destination Webiste where you could explore the site of Montjuic in Barcelona and get all information of how to get there, few history facts, where to eat and the best spots to explore the view of Montjuic. Tools we used in this project were HTML, CSS and Javascript. 
 
 
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
