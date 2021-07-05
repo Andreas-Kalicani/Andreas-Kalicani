@@ -10,7 +10,7 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 
 ## Some of my projects :computer:	
-* [Redefine](https://github.com/Andreaskalicani/Redefine): Still under construction. We are creating a Website (4 persons) for a client in Copenhaguen, a Service design agency start-up named REDEFINE. This is our final project through the bootcamp. We are using React, styled-components and Atomic design. 
+* [Redefine](https://github.com/Andreaskalicani/Redefine): Still under construction. We are creating a Website (4 persons) for a client in Copenhagen, a Service design agency start-up named REDEFINE. This is our final project through the bootcamp. We are using React, styled-components and Atomic design. 
 
 * [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): First Hackathon - we won the 2nd place. Our mission was to create an application that could be useful for Astronauts who are traveling to Mars.  We had 24 hours to create this application. With my team we decided to create a Scrum mars application where you could keep track of all your work, backlog and tasks - drag them when there are in process or finished. When one task is completed you receive points, in order to motivate each other to give their best. 
 
