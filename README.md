@@ -10,6 +10,9 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 
 ## Some of my projects :computer:	
+
+* [VG scraper](https://github.com/Andreas-Kalicani/Web-scraper-vg): This is a simple web scraper that scrapes the header title and the url link to the specific articles from the big national newspaper from Norway VG. You can use it as you like to get information or find your favorite articles of today that you would like to read. It is just used for fun to learn little bit more about web scraping with node JS.
+
 * [Redefine](https://github.com/Andreaskalicani/Redefine): We are creating a Website (4 persons) for a client in Copenhagen, a Service design agency start-up named REDEFINE. This is our final project through the bootcamp. We are using React, styled-components and Atomic design. 
 
 * [Scrum Mars App](https://github.com/Andreaskalicani/hackathon11.05.2021): First Hackathon - we won the 2nd place. Our mission was to create an application that could be useful for Astronauts who are traveling to Mars.  We had 24 hours to create this application. With my team we decided to create a Scrum mars application where you could keep track of all your work, backlog and tasks - drag them when there are in process or finished. When one task is completed you receive points, in order to motivate each other to give their best. 
