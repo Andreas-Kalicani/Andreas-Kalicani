@@ -1,5 +1,5 @@
 # Hello there:wave: I'm Andreas Kalicani
-**<h4>I'm a passionate Full-stack developer that always loves to create, be positive and  work in teams:pray:</h4>**
+**<h4>I'm a passionate Full-stack developer that always loves to create, :pray:</h4>**
 ## :wrench:Technologies & Tools
 | <img src="https://doc.castsoftware.com/download/thumbnails/418185647/CAST_ReactJS_Application.jpg?version=1&modificationDate=1593447628930&api=v2" width="100px" height="100px"/>
 <img src="https://fs.siteor.com/javatech/files/layout/assan/vavatech/img/content/css_nowe_logo.png?1615208030" height="100px" width="100px"/>
@@ -10,6 +10,10 @@
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100px" height="100px"/> 
 
 ## Some of my projects :computer:	
+
+* [Gericht](https://github.com/Andreas-Kalicani/Gericht): This is a landing page for a Restaurant named Gericht that is located in the United states. 
+This is project I been working for the last couple of weeks where I could practice using UX/UI design prinicples with React framework and also creating Mobile responsiveness. This landing page for Gericht includes all information of the restaurant and how to get in contact with them. Great project for myself development its free to use and if you want some of the search code its free to take. 
+
 
 * [VG scraper](https://github.com/Andreas-Kalicani/Web-scraper-vg): This is a simple web scraper that scrapes the header title and the url link to the specific articles from the big national newspaper from Norway VG. You can use it as you like to get information or find your favorite articles of today that you would like to read. It is just used for fun to learn little bit more about web scraping with node JS.
 
@@ -27,7 +31,7 @@
 
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
 
-* :man_factory_worker: Last project REDEFINE: https://github.com/Andreaskalicani/Redefine
+* :man_factory_worker: Last project Gericht: https://github.com/Andreas-Kalicani/Gericht
 
 * :people_holding_hands: Excited to collaborate with on new projects and keep growing.  
 
