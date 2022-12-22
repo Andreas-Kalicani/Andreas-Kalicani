@@ -11,6 +11,8 @@
 
 ## Some of my projects :computer:	
 
+* [ecommer](https://github.com/Andreas-Kalicani/E-commerce): This is my first e-commerce clothing store.This project is created to improve mye technical skills to improve and use new technologies. The tools that was used for this project is "React, Strapi, Material UI, Redux and Redux-toolkit for state mangement, yup for form validatation and React-icons for usage of icons". This is a demo only for practicing my skills 
+
 * [Gericht](https://github.com/Andreas-Kalicani/Gericht): This is a landing page for a Restaurant named Gericht that is located in the United states. 
 This is project I been working for the last couple of weeks where I could practice using UX/UI design prinicples with React framework and also creating Mobile responsiveness. This landing page for Gericht includes all information of the restaurant and how to get in contact with them. Great project for myself development its free to use and if you want some of the sourch code its free to take.Some of the tools I used is: React, CSS, HTML, Javascript and React Icon.[click to see Gericht](https://6390fc1ba0b1b70bd85661ec--effortless-begonia-f2100b.netlify.app/) 
 PS: Just demo website for personal project not real
