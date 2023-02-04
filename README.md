@@ -34,7 +34,7 @@ PS: Just demo website for personal project not real
 
 ## Let's connect through [Linkedin](https://www.linkedin.com/in/andreas-gjertsen-kalicani-59b980211/)
 
-* :man_factory_worker: Last project Gericht: https://github.com/Andreas-Kalicani/Gericht
+* :man_factory_worker: Last project Ecommer: https://github.com/Andreas-Kalicani/E-commerce
 
 * :people_holding_hands: Excited to collaborate with on new projects and keep growing.  
 
